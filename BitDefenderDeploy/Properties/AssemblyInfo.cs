@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BitDefenderDeploy")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Utility for MSPs to deploy Bit Defender")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Dentaur Pty Ltd")]
 [assembly: AssemblyProduct("BitDefenderDeploy")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Dentaur Pty Ltd - Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
